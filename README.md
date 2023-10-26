@@ -35,6 +35,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/90508617-d189-459e-b0cf-1eb1e3705995)
 
+![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/00c446db-faab-42cf-b2f6-d5d8dbe50293)
+
 
 </p>
 <p>
