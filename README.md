@@ -53,7 +53,7 @@ The pictures above display access control user and roles, general settings and p
 
 </p>
 <p>
-The pictures above demonstrate departments and team set up. 
+The pictures above demonstrate departments and team set up. Jane/Jon Doe, my newest department members.
 </p>
 <br />
 
