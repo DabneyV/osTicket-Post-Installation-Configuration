@@ -52,7 +52,6 @@ The pictures above display access control user and roles, general settings, and 
 
 ![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/6cc47f88-0c49-4c89-a7f1-ae15ad90c370)
 
-![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/9f72eb7a-be66-4ca1-b3bb-62982ee811d6)
 
 </p>
 <p>
@@ -67,6 +66,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/ee97ebeb-c44d-46b4-bc2e-f9375de48d13)
 
 ![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/54af4065-15ca-4950-b332-8f95ad83fff6)
+
+![image](https://github.com/DabneyV/osTicket-Post-Installation-Configuration/assets/148362429/d11737d2-5476-4386-9de2-1c33fea86bd1)
 
 
 </p>
